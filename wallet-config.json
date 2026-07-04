@@ -1,0 +1,9 @@
+{
+  "gameServer": {
+    "url": "wss://game.islands.games"
+  },
+  "proxy": "", 
+  "player": {
+    "color": "#ff0000"
+  }
+}
