@@ -1,0 +1,6 @@
+{
+  "autoSkill": {
+    "aktif": "Y",
+    "prioritas": ["str", "agi", "vit"]
+  }
+}
