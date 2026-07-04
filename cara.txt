@@ -1,0 +1,2 @@
+npm install ws node-fetch@2 tweetnacl bs58 @solana/web3.js http-proxy-agent socks-proxy-agent https-proxy-agent
+  node nama_file_script_anda.js
